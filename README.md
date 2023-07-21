@@ -34,10 +34,13 @@ Run the application by following this command:
 npm run dev
 ```
 
-## Run in Browser
+## Run in the Browser
 
 Access the url on the browser:
 
 ```bash
 localhost:3001
 ```
+
+## Happy Coding
+<img src="/public/capture.PNG" />
