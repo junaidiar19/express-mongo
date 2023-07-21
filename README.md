@@ -1,6 +1,6 @@
 # Blog Ninja
 
-This is a simple web application for learning purpose about node.js, express.js & mongodb from my favourite youtube channel is [The Net Ninja](https://www.youtube.com/@NetNinja)
+This is a simple web application for learning purpose about node.js, express.js & mongodb from my favorite youtube channel is [The Net Ninja](https://www.youtube.com/@NetNinja)
 
 ## Installation
 
